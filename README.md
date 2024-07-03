@@ -69,28 +69,28 @@ This project leverages the Laravel framework, alongside HTML, CSS, JavaScript, P
 ## Screenshots
 
 ### Home Page
-![Front Page](Screenshots/Front_Page.png)
+![Front Page](Front_Page.png)
 
 ### Admin Page
-![Admin Dashboard](Screenshots/Admin_Dashboard.png)
+![Admin Dashboard](Admin_Dashboard.png)
 
 ### User Page
-![User Page](Screenshots/User_Dashboard.png)
+![User Page](User_Dashboard.png)
 
 ### Menu Page
-![Food Menu Page](Screenshots/Food_Menu.png)
+![Food Menu Page](Food_Menu.png)
 
 ### Details Page
-![Product Details Page](Screenshots/Product_Details.png)
+![Product Details Page](Product_Details.png)
 
 ### Cart Page
-![Cart Page](Screenshots/Cart.png)
+![Cart Page](Cart.png)
 
 ### Checkout Page
-![Checkout Page](Screenshots/Checkout.png)
+![Checkout Page](Checkout.png)
 
 ### Payment Gatway Page
-![Gateway Page](Screenshots/Payment_Gatway.png)
+![Gateway Page](Payment_Gatway.png)
 
 
 You're welcome! If you need any more help or have any other questions, feel free to ask. Good luck with your Shinzo Shop project!
